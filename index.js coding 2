@@ -1,0 +1,12 @@
+
+let name = 'Stephan';
+console.log(name);
+
+// Cannot be reeserved keyword
+// Should be meaningful
+// Cannot start with a number (1name)
+// Cannot contain a space or a hyphen (-)
+// Are case-sensitive
+
+let firstname = 'Stephan';
+let lastname = 'Maina';

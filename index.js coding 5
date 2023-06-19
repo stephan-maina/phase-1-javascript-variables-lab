@@ -1,0 +1,4 @@
+
+let selectedColors = ['blue', 'black'];
+selectedColors[2] = 'green'
+console.log(selectedColors);
