@@ -1,0 +1,26 @@
+const myName = "Christiano Ronaldo"
+
+// myName cannot be reassigned to a new value
+myName = "Christiano Ronaldo"; // Error
+
+let myAge = 19;
+
+// myAge can be reassigned to a new value
+myAge = 20;
+
+let myVariable = "Hello World!";
+
+console.log(myVariable); // Hello World!
+
+myVariable = "Goodbye World!";
+
+console.log(myVariable); // Goodbye World!
+
+let;
+carName = "Audi R9";
+let carName = "Audi R9";
+
+<><p id="demo"></p><script>
+    let carName = "Audi R9";
+    document.getElementById("demo").innerHTML = carName;
+</script></>
